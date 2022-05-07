@@ -3,7 +3,6 @@
 
 ### Play the game!
 
-Play on keyboard & mouse - https://jennifershinshin.itch.io/vr-flightsimulator
 
 Play in VR (*WARNING: May cause nausea*) - You can download the game_exe folder to play the game.
 
