@@ -14,19 +14,6 @@ You may shoot the spheres in the air to make them disappear. The spheres will re
 
 ## Controls
 
-### Keyboard Controls
-* W: Accelerate
-* S: Decelerate
-* A: Yaw left
-* D: Yaw right
-
-* Q: Roll left
-* E: Roll right
-
-* Left mouce click: Pitch up
-* Right mouse click: Pitch down
-
-* Spacebar: Shoot
 
 ### VR Controls
 * Right joystick (up) - Accelerate
